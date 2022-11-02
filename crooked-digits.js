@@ -24,3 +24,5 @@ for (let i = 0; i < input1.length; i++) {
 }
 
 console.log(sum);
+
+new edit line
